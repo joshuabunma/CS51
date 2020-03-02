@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583187954 source:c:\users\cos_user_pcc\desktop\lab4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
